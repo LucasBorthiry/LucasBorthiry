@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LucasBorthiry
 - 👀 I’m interested in Marketing Automation
-- 🌱 I’m currently learning about mautic
+- 🌱 I’m currently developing n8n and mautic implementations
 - 📫 U can reach me on using my e-mail.
 
 <!---
